@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-<h2 align="center">My GitHub statistics</h2>
+
+<hr>
+<h3 align="center">My GitHub statistics</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookies111&show_icons=true&theme=dark&locale=en&layout=compact" alt="rookies111"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=rookies111&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="rookies111" />
