@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is Chaiyapat Phanprasert, but you can call me Rookie. Nice to meet you!
 
 <--
 **Rookies111/Rookies111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
