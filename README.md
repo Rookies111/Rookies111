@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Chaiyapat Phanprasert, but you can call me Rookie. Nice to meet you!
-
-<--
+<h1 align="center">Hi there 👋, My name is Chaiyapat Phanprasert.<br>You can call me Rookie. Nice to meet you!</h1>
+<div name="introduction">hi
+</div>
+<!--
 **Rookies111/Rookies111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookies111&show_icons=true&theme=dark&locale=en&layout=compact" alt="rookies111" />
+<h2 align="center"> My GitHub statistics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookies111&show_icons=true&theme=dark&locale=en&layout=compact" alt="rookies111">
+</div>
