@@ -18,6 +18,18 @@ Here are some ideas to get you started:
 -->
 
 <hr>
+<h3 align="center">Program that I can write</h3>
+<div align="center">
+    <img src="Program_Logo/python_logo.png" width=75px height=75px>
+    <img src="Program_Logo/html_logo.png" width=75px height=75px>
+    <img src="Program_Logo/css_logo.png" width=75px height=75px>
+    <img src="Program_Logo/javascript_logo.png" width=75px height=75px>
+    <img src="Program_Logo/C++_logo.png" width=75px height=75px>
+    <img src="Program_Logo/Go-Logo.png" width=75px height=75px>
+    <img src="Program_Logo/Bash_Logo.png" width=75px height=75px>
+</div>
+
+<hr>
 <h3 align="center">My GitHub statistics</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookies111&show_icons=true&theme=dark&locale=en&layout=compact" alt="rookies111"><br>
