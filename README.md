@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="center">My GitHub statistics</h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookies111&show_icons=true&theme=dark&locale=en&layout=compact" alt="rookies111"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=rookies111&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="rookies111" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookies111&show_icons=true&theme=dark&locale=en&layout=compact" alt="rookies111">
+    <img src="https://github-readme-stats.vercel.app/api?username=rookies111&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="rookies111" height=165px>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=rookies111&theme=onedark" alt="rookies111" />
     </a>
